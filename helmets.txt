@@ -1,0 +1,17 @@
+safety_images/434922.jpg,303,179,358,212,0
+safety_images/480980.jpg,2162,562,2354,710,0
+safety_images/480986.jpg,850,1284,1089,1489,0
+safety_images/480998.jpg,1205,434,1637,690,0
+safety_images/481012.jpg,624,1275,979,1504,0
+safety_images/481019.jpg,148,164,187,209,0
+safety_images/481146.JPG,421,256,497,333,0
+safety_images/481171.JPG,451,825,720,1094,0
+safety_images/482767.JPG,696,247,1046,453,0
+safety_images/482812.JPG,259,554,830,935,0
+safety_images/482882.JPG,1732,793,1920,923,0
+safety_images/483064.jpg,425,76,514,140,0
+safety_images/483065.JPG,401,563,714,746,0
+safety_images/483085.jpg,1579,158,2310,693,0
+safety_images/483160.jpg,656,525,867,707,0
+safety_images/483327.JPG,766,269,1089,572,0
+safety_images/483448.jpg,637,252,827,394,0
